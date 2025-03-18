@@ -5,6 +5,17 @@
 
 ### [Paper](https://doi.org/10.48550/arXiv.2503.12001) | [web](https://thinkx.ca/research/3dgs/)
 
+## BibTeX
+```
+  @article{GaussianMove2025,
+  author = {Peizhen Zheng and Longfei Wei and Dongjing Jiang and Jianfei Zhang},
+  title = {{3D Gaussian} Splatting against Moving Objects for High-Fidelity Street Scene Reconstruction}
+  journal = {arXiv: 2503.12001},
+  year = {2025},
+  doi = {10.48550/arXiv.2503.12001}
+  }
+```
+
 <table>
   <tr>
     <td align="center">
@@ -161,18 +172,6 @@ https://drive.google.com/file/d/1XbEOvhHi-3tWbAkUeg2Ecyi8zHMvHsbr/view?usp=drive
 ## 🎫 Acknowledgment
 
 This project largely references [3D Gaussian Splatting](https://github.com/graphdeco-inria/gaussian-splatting) and [ACMH/ACMM](https://github.com/GhiXu/ACMH). Thanks for their amazing work!
-
-
-## Cite
-```
-  @article{GaussianMove2025,
-  author = {Peizhen Zheng and Longfei Wei and Dongjing Jiang and Jianfei Zhang},
-  title = {{3D Gaussian} Splatting against Moving Objects for High-Fidelity Street Scene Reconstruction}
-  journal = {arXiv: 2503.12001},
-  year = {2025},
-  doi = {10.48550/arXiv.2503.12001}
-  }
-```
 
 </div>
 
