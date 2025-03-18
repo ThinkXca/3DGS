@@ -5,6 +5,7 @@
 
 ### [Paper](https://doi.org/10.48550/arXiv.2503.12001) | [web](https://thinkx.ca/research/3dgs/)
 
+<div align="left">
 ## BibTeX
 ```
   @article{GaussianMove2025,
@@ -15,6 +16,7 @@
   doi = {10.48550/arXiv.2503.12001}
   }
 ```
+</div>
 
 <table>
   <tr>
