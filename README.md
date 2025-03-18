@@ -160,7 +160,15 @@ https://drive.google.com/file/d/1XbEOvhHi-3tWbAkUeg2Ecyi8zHMvHsbr/view?usp=drive
 
 ## 🎫 Acknowledgment
 
-This project largely references [3D Gaussian Splatting](https://github.com/graphdeco-inria/gaussian-splatting) and [ACMH/ACMM](https://github.com/GhiXu/ACMH). Thanks for their amazing works!
+This project largely references [3D Gaussian Splatting](https://github.com/graphdeco-inria/gaussian-splatting) and [ACMH/ACMM](https://github.com/GhiXu/ACMH). Thanks for their amazing work!
+
+
+## Cite
+
+<div align="left">
+Peizhen Zheng, Longfei Wei, Dongjing Jiang, Jianfei Zhang. 3D Gaussian Splatting against Moving Objects for High-Fidelity Street Scene Reconstruction. arXiv: 2503.12001. 2025. <a href="https://doi.org/10.48550/arXiv.2503.12001">https://doi.org/10.48550/arXiv.2503.12001</a>
+</div>
+
 
 </div>
 
