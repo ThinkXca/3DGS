@@ -5,8 +5,8 @@
 
 ### [Paper](https://doi.org/10.48550/arXiv.2503.12001) | [web](https://thinkx.ca/research/3dgs/)
 
-<div align="left">
 ## BibTeX
+<div align="left">
 ```
   @article{GaussianMove2025,
   author = {Peizhen Zheng and Longfei Wei and Dongjing Jiang and Jianfei Zhang},
@@ -15,8 +15,8 @@
   year = {2025},
   doi = {10.48550/arXiv.2503.12001}
   }
-```
 </div>
+```
 
 <table>
   <tr>
