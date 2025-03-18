@@ -9,11 +9,11 @@
 ## BibTeX
 ```
   @article{GaussianMove2025,
-  author = {Peizhen Zheng and Longfei Wei and Dongjing Jiang and Jianfei Zhang},
-  title = {{3D Gaussian} Splatting against Moving Objects for High-Fidelity Street Scene Reconstruction}
-  journal = {arXiv: 2503.12001},
-  year = {2025},
-  doi = {10.48550/arXiv.2503.12001}
+    author = {Peizhen Zheng and Longfei Wei and Dongjing Jiang and Jianfei Zhang},
+    title = {{3D Gaussian} Splatting against Moving Objects for High-Fidelity Street Scene Reconstruction}
+    journal = {arXiv: 2503.12001},
+    year = {2025},
+    doi = {10.48550/arXiv.2503.12001}
   }
 ```
 
@@ -59,7 +59,7 @@ The accurate reconstruction of dynamic street scenes is critical for application
 
 ## 🗓️ News
 
-<p>[2024.10.10] Many thanks to <a href="https://github.com/wei872">Longfei Wei</a>, Improvements made to the code</p>
+<p>[2024.10.10] Many thanks to <a href="https://github.com/wei872">Longfei Wei</a> for the improvements he made to the code</p>
 
 <p>[2024.10.10] Many thanks to <a href="https://github.com/kcheng1021/GaussianPro">GaussianPro</a>, Provide code for the project</p>
 
@@ -78,11 +78,11 @@ The accurate reconstruction of dynamic street scenes is critical for application
 - [✔] Code pre-release -- Beta version. 
 - [✔] Demo Scenes.
 - [✔] <strong>Pybinding & CUDA acceleration</strong>.
-- [ ] Support for unordered set of images.
+- [ ] Support for unordered sets of images.
 
 </div>
 
-<strong>Some amazing enhancements are under development. We are warmly welcome anyone to collaborate in improving this repository. Please send me an email if you are interested!</strong>
+<strong>Some amazing enhancements are under development. We warmly welcome anyone to collaborate to improve this repository. Please send me an email if you are interested!</strong>
 
 
 
@@ -158,7 +158,7 @@ https://drive.google.com/file/d/1XbEOvhHi-3tWbAkUeg2Ecyi8zHMvHsbr/view?usp=drive
 #### Try your scenes:
 
 ```
-# If you want to try your scenes, make sure your images are sorted in the time order, i.e. video data. The current version does not support unordered image sets. Then you can try the commands in demo.sh to run your own scenes.
+# If you want to try your scenes, ensure your images are sorted in the time order, i.e. video data. The current version does not support unordered image sets. Then you can try the commands in demo.sh to run your scenes.
 
 # Please ensure that your neighboring images have sufficient overlap.
 
