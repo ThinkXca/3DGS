@@ -8,7 +8,6 @@
 
 ## BibTeX
 ```
-<div align="left">
   @article{GaussianMove2025,
   author = {Peizhen Zheng and Longfei Wei and Dongjing Jiang and Jianfei Zhang},
   title = {{3D Gaussian} Splatting against Moving Objects for High-Fidelity Street Scene Reconstruction}
@@ -16,7 +15,6 @@
   year = {2025},
   doi = {10.48550/arXiv.2503.12001}
   }
-</div>
 ```
 
 <table>
