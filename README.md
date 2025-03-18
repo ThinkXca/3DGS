@@ -166,7 +166,14 @@ This project largely references [3D Gaussian Splatting](https://github.com/graph
 ## Cite
 
 <div align="left">
-Peizhen Zheng, Longfei Wei, Dongjing Jiang, Jianfei Zhang. 3D Gaussian Splatting against Moving Objects for High-Fidelity Street Scene Reconstruction. arXiv: 2503.12001. 2025. <a href="https://doi.org/10.48550/arXiv.2503.12001">https://doi.org/10.48550/arXiv.2503.12001</a>
+  @article{GaussianMove2025,
+  author = {Peizhen Zheng and Longfei Wei and Dongjing Jiang and Jianfei Zhang},
+  title = {{3D Gaussian} Splatting against Moving Objects for High-Fidelity Street Scene Reconstruction}
+  journal = {arXiv: 2503.12001},
+  year = {2025},
+  doi = {10.48550/arXiv.2503.12001}
+  }
+. . arXiv: 2503.12001. 2025. <a href="https://doi.org/10.48550/arXiv.2503.12001">https://doi.org/10.48550/arXiv.2503.12001</a>
 </div>
 
 
