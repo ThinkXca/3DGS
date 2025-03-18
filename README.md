@@ -3,7 +3,7 @@
   <h1 align="center">3D Gaussian Splatting against Moving Objects for High-Fidelity Street Scene Reconstruction</h1>
   <h2 align="center">2025</h2>
 
-### [Paper]() | [web](https://thinkx.ca/research/3dgs/)
+### [Paper](https://doi.org/10.48550/arXiv.2503.12001) | [web](https://thinkx.ca/research/3dgs/)
 
 <table>
   <tr>
