@@ -1,13 +1,14 @@
-
+<div align="center">
   <h1 align="center">3D Gaussian Splatting against Moving Objects for High-Fidelity Street Scene Reconstruction</h1>
   <h2 align="center">2025</h2>
 
 ### [Paper](https://doi.org/10.48550/arXiv.2503.12001) | [web](https://thinkx.ca/research/3dgs/)
+</div>
 
 
-<div align="left">
 ## BibTeX
 ```
+<div align="left">
   @article{GaussianMove2025,
   author = {Peizhen Zheng and Longfei Wei and Dongjing Jiang and Jianfei Zhang},
   title = {{3D Gaussian} Splatting against Moving Objects for High-Fidelity Street Scene Reconstruction}
@@ -15,8 +16,8 @@
   year = {2025},
   doi = {10.48550/arXiv.2503.12001}
   }
-```
 </div>
+```
 
 
 <table>
