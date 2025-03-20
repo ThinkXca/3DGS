@@ -10,7 +10,7 @@
 ```
   @article{GaussianMove2025,
     author = {Peizhen Zheng and Longfei Wei and Dongjing Jiang and Jianfei Zhang},
-    title = {{3D Gaussian} Splatting against Moving Objects for High-Fidelity Street Scene Reconstruction}
+    title = {{3D Gaussian} Splatting against Moving Objects for High-Fidelity Street Scene Reconstruction},
     journal = {arXiv: 2503.12001},
     year = {2025},
     doi = {10.48550/arXiv.2503.12001}
@@ -59,7 +59,7 @@ The accurate reconstruction of dynamic street scenes is critical for application
 
 ## 🗓️ News
 
-<p>[2024.10.10] Many thanks to <a href="https://github.com/wei872">Longfei Wei</a> for the improvements he made to the code</p>
+<p>[2025.03.15] Many thanks to <a href="https://github.com/wei872">Longfei Wei</a> and <a href="https://github.com/jianfeizhang">Jianfei Zhang</a> for the improvements they made to the code</p>
 
 <p>[2024.10.10] Many thanks to <a href="https://github.com/kcheng1021/GaussianPro">GaussianPro</a>, Provide code for the project</p>
 
